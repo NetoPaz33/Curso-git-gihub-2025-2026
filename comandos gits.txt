@@ -1,0 +1,3 @@
+Eu estou aprendendo git com teu calvo
+
+pq não modifica

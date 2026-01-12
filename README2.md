@@ -11,3 +11,6 @@ Um curso para iniciantes aprenderem trabalhar com versionamento de código vai d
 
 
 1. Git che
+
+[Curso Git 2025] (https://yputube.com/@teomewhy)
+
